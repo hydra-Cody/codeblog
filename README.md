@@ -1,7 +1,7 @@
 ## Demo Video
-[Link](https://drive.google.com/file/d/1eDzzKFxFMXVslrO4ZpsavhPLElE_Dw85/view?usp=drive_link)
+[Demo Video Link](https://drive.google.com/file/d/1eDzzKFxFMXVslrO4ZpsavhPLElE_Dw85/view?usp=drive_link)
 
-Backend- https://github.com/anuragdw710/codeblogbackend
+[Backend Link](https://github.com/anuragdw710/codeblogbackend)
 
 # Features
 - Secure Login & Register
